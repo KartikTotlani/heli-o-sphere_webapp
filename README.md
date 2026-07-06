@@ -13,4 +13,4 @@
 
 ### 📊 Analytics Dashboard
 ![Analytics Dashboard](assets/Screenshot%202026-07-06%20215631.png)
-![Forecast Results](assets/Screenshot%202026-07-06%20215638.png)
+![Analytics Dashboard](assets/Screenshot%202026-07-06%20215638.png)
