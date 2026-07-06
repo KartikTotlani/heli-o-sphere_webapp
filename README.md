@@ -2,14 +2,17 @@
 
 ## 📸 Project Screenshots
 
-### Home Page
-![Home Page](assets/home.png)
+### 🏠 Home Page
+![Home Page](assets/Screenshot%202026-07-06%20215514.png)
 
-### Prediction Page
-![Prediction Page](assets/prediction.png)
+### 🤖 AI Assistant
+![AI Assistant](assets/Screenshot%202026-07-06%20215533.png)
 
-### AI Assistant Page
-![AI Assistant Page](assets/AIassist.png)
+### 🌡️ Heatwave Prediction
+![Heatwave Prediction](assets/Screenshot%202026-07-06%20215602.png)
 
-### Dashboard
-![Dashboard](assets/dashboard.png)
+### 📊 Analytics Dashboard
+![Analytics Dashboard](assets/Screenshot%202026-07-06%20215631.png)
+
+### 📈 Forecast Results
+![Forecast Results](assets/Screenshot%202026-07-06%20215638.png)
